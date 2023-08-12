@@ -20,3 +20,5 @@
 
 | <a href="https://github.com/FandyFr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FandyFr&show_icons=true&theme=dracula" /></a> | <a href="https://github.com/FandyFr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FandyFr&layout=compact&theme=dracula" /></a> |
 | ------------- | ------------- |
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FandyFr&theme=dracula)]
