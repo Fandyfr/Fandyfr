@@ -9,7 +9,7 @@
   Perkenalkan nama saya Fandy Fathurrohman Dipanggilnya Fandy.
   Saya Berasal dari Bali,Denpasar.
   Saat ini saya berumur 15 Tahun.
-  Saya Bersekolah di SMK TI GLOBAL Denpasar.
+  Saya Bersekolah di SMK TI GLOBAL Denpasar. 
   Kelas X RPL 1
   </samp>
 </p>
