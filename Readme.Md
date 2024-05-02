@@ -19,8 +19,8 @@
 Tidak. Hanya membelanjakannya. [Menjadi sponsor] jika Anda ingin terus berjalan & menerima fitur baru.
 
 ## 🌐 Socials:
-[![Discord Server](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/H8pvTY7yxK)
-My Insta: [Instagram]
+[![Discord Server](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/H8pvTY7yxK) <br>
+My Insta: [Instagram] <br>
 My Tweet: [Twitter]
 
 # 💻 Tech Stack:
@@ -43,8 +43,8 @@ My Tweet: [Twitter]
 
 ## Kirim Tip:
 
-Wallet Bitcoin: [BTC]
-Wallet Ethereum: [ETH]
+Wallet Bitcoin Me: [BTC] <br>
+Wallet Ethereum Me: [ETH]
 
 [Discord]:https://discord.gg/https://discord.gg/H8pvTY7yxK
 [Instagram]: https://www.instagram.com/fndy.fr
