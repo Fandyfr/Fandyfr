@@ -1,4 +1,6 @@
-<center> [![](https://visitcount.itsvg.in/api?id=Harukarepo&icon=0&color=0)](https://visitcount.itsvg.in) </center>
+<center>
+[![](https://visitcount.itsvg.in/api?id=FandyFr&icon=0&color=0)](https://visitcount.itsvg.in) 
+</center>
 
 ## Hi There 👋
 - Saya Tertarik Dengan Web Dev & Game Dev.
