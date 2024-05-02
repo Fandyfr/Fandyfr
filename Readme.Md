@@ -16,7 +16,7 @@
 
 ### 🤑 Are you making money on it? 🤑
 
-Tidak. Hanya membelanjakannya. [Menjadi sponsor] jika Anda ingin terus berjalan & menerima fitur baru.
+Tidak. Hanya membelanjakannya. [Menjadi Sponsors] jika Anda ingin terus berjalan & menerima fitur baru.
 
 ## 🌐 Socials:
 [![Discord Server](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/H8pvTY7yxK) <br>
