@@ -1,6 +1,5 @@
-<center>
-![](https://komarev.com/ghpvc/?username=FandyFr)
-</center>
+
+![](https://komarev.com/ghpvc/?username=FandyFr&abbreviated=true)
 
 ## Hi There 👋
 - Saya Tertarik Dengan Web Dev & Game Dev.
