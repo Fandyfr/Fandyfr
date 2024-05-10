@@ -7,7 +7,7 @@
 ## About Me
 <p align="left">
   <samp>
-  Saya Berasal dari Bali,Denpasar.
+  Saya Berasal dari Bali,Denpasar. <br>
   Saat ini saya berumur 16 Tahun.
   </samp>
 </p>
