@@ -9,8 +9,6 @@
   <samp>
   Saya Berasal dari Bali,Denpasar.
   Saat ini saya berumur 16 Tahun.
-  Saya Bersekolah di SMK TI GLOBAL Denpasar. 
-  Kelas X RPL 1
   </samp>
 </p>
 
@@ -46,6 +44,8 @@ My Tweet 𝕏 : [Twitter]
 Wallet Bitcoin Me: [BTC] <br>
 Wallet Ethereum Me: [ETH]
 
+[  Saya Bersekolah di SMK TI GLOBAL Denpasar. ]:
+[ Kelas X RPL 1 ]:
 [Discord]:https://discord.gg/https://discord.gg/H8pvTY7yxK
 [Instagram]: https://www.instagram.com/fndy.fr
 [Twitter]: https://twitter.com/FandyFrOfficial
