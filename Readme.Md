@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm FandyFr</h1>
 <p align="center">
   <samp>💻 Web Developer & App Developer Enthusiast</samp><br>
-  <samp>📍 Bali, Denpasar | 🎓 SMK TI - XI RPL 1</samp>
+  <samp>📍 Bali, Denpasar | 🎓 SMK TI - XII RPL 1</samp>
 </p>
 
 ---
